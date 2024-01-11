@@ -1,3 +1,5 @@
+#　自動販売機_現金処理ver.
+
 from ast import Break
 from typing_extensions import Counter
 while True:
